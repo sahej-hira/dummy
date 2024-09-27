@@ -1,0 +1,28 @@
+/* Example styles for the tabs */
+.romantic-container {
+    background-color: #ffe6e6; /* Light romantic background */
+  }
+  
+  .tabs {
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+    background-color: #ffcccb;
+  }
+  
+  .tab {
+    cursor: pointer;
+    padding: 10px 20px;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+  }
+  
+  .tab:hover {
+    background-color: #ff9999;
+    color: white;
+  }
+  
+  .tab i {
+    margin-right: 8px;
+  }
+  

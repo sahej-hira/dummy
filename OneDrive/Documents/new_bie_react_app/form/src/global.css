@@ -1,0 +1,5 @@
+body {
+    background: linear-gradient(to br, from-pink-200 via-yellow-200 to-blue-300);
+    background-size: cover;
+    background-attachment: fixed;
+  }
